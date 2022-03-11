@@ -1,0 +1,19 @@
+.y{
+                display: flex;
+                justify-content: space-between;
+                margin-right: 20px;
+                margin-left: 20px;
+                margin-bottom: 20px;
+
+            }
+.bottom{
+                margin-top: 100px;
+            }
+.post{
+                margin-top: 100px;
+                margin-bottom: 100px;
+            }
+.mid{
+                margin-left: 100px;
+                margin-right: 100px;
+            }
